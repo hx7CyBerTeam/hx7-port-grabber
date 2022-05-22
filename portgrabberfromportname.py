@@ -1,13 +1,15 @@
 import socket
 import time
 
+# by hx7 | hx7 team 
+
 class app():
 
     print("[+] ====== hx7 Script ====== [+]")
     time.sleep(0.7)
     print("[+] ====== Port Grabber By: [Port Name] ====== [+]")
     time.sleep(0.7)
-    print("[+] ====== Made By: hx7 | hadixd ====== [+]")
+    print("[+] ====== Made By: hx7 | hx7 team ====== [+]")
     time.sleep(1)
     print("> 1")
     time.sleep(2)
